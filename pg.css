@@ -11,6 +11,7 @@ body, html {
     top: 0;
     left: 0;
     color:ghostwhite;
+   
   }
 
   box{
@@ -104,10 +105,13 @@ body, html {
   
   }
 
-  footer {
+  footers {
     text-align:left;
     padding: 6px;
     background-color: whitesmoke;
     color: white;
-    padding-left: 20px;
+    padding-left: 50px;
+ 
   }
+
+  
